@@ -1,22 +1,5 @@
-# 💫 About Me
-
-### I'm currently working on  
-Deepening my understanding of DevOps fundamentals, system administration, and basic security practices.
-
-### I'm looking to collaborate on  
-Beginner-friendly projects where I can contribute while learning from real-world use cases.
-
-### I'm looking for help with  
-Applying infrastructure tools in practical scenarios and understanding production environments.
-
-### I'm currently learning  
-Linux, Docker, core networking concepts, and monitoring stacks such as ELK and Wazuh.
-
-### Ask me about  
-My current learning path or how I'm building my technical foundation step by step.
-
-### Fun fact  
-I enjoy breaking down complex topics into manageable parts and believe steady progress beats perfection.
+#  About Me
+Linux & Docker-focused engineer building secure, isolated infrastructures and threat detection tools. Skilled in network security, automation, and containerized AD/SIEM/Matrix deployments.
 
 ---
 
