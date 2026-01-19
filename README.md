@@ -1,5 +1,5 @@
 #  About Me
-Linux & Docker-focused engineer building secure, isolated infrastructures and threat detection tools. Skilled in network security, automation, and containerized AD/SIEM/Matrix deployments.
+Linux & Docker-focused engineer building secure, isolated infrastructures and threat detection tools. Skilled in network security, automation, and containerized SIEM/Matrix deployments.
 
 ---
 
